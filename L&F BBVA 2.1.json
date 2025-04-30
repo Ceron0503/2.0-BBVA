@@ -146,6 +146,7 @@
     },
     {
       "item" : "summary_item_selected_tip_background_color",
+      "value" : "#0279C3",
       "enable" : true
     },
     {
