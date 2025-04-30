@@ -274,9 +274,9 @@
       "enable" : true
     },
     {
-      "enable" : true,
       "item" : "global_fourth_button_background_color",
-      "value" : "#1A2C54"
+      "value" : "#1A2C54",
+      "enable" : true
     }
   ],
   "custom_images_enable" : true,
@@ -290,8 +290,8 @@
     {
       "item" : "image_ticket_stripe",
       "value" : "image_stripe",
-      "url" : "",
-      "enable" : false
+      "url" : "https://raw.githubusercontent.com/Ceron0503/BBVA-nueva-/refs/heads/main/CintilloBBVA.png",
+      "enable" : true
     },
     {
       "item" : "image_watermark",
