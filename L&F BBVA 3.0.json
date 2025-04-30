@@ -286,7 +286,7 @@
       "item" : "image_ticket_stripe",
       "value" : "image_stripe",
       "url" : "https://raw.githubusercontent.com/Ceron0503/BBVA-nueva-/refs/heads/main/CintilloBBVA.png",
-      "enable" : false
+      "enable" : true
     },
     {
       "item" : "image_watermark",
