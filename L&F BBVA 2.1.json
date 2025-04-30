@@ -138,15 +138,10 @@
         "Array" : [
           [
             "",
-            true,
-            null,
-            [
-              [
-                {}
-              ]
+            false,
+            null
             ]
           ]
-        ]
       }
     },
     {
